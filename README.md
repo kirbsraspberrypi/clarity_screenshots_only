@@ -1,3 +1,29 @@
+# Clarity - Clarity-Through-Action System
+
+## 🎯 Overview
+
+Clarity is a mobile application designed to solve a fundamental problem: **most women feel stuck, unclear on what they're good at, and disconnected from what they actually enjoy.**
+
+Unlike traditional journaling apps that encourage overthinking, Clarity is a **clarity-through-action system** that helps users discover themselves by doing, not just reflecting.
+
+---
+
+## 📋 Complete Feature Requirements
+
+### 1. High-Converting Onboarding Quiz
+**Purpose:** Identify user's unique psychological profile
+
+**Features:**
+- 5-question psychology-driven assessment
+- Categories measured:
+  - **Strengths** - What users naturally excel at
+  - **Energy Drivers** - What motivates and energizes them
+  - **Skill Patterns** - How they naturally approach problems
+- Smooth page transition with progress indicator
+- No account required to start (frictionless entry)
+- Instant results generation
+
+**User Flow:**
 
 ### 2. AI-Powered Personalized Recommendations
 **Purpose:** Generate custom real-world experiments based on user's profile
